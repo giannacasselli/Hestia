@@ -64,15 +64,12 @@ plt.show()
 # Wildfire data uses locations based in longitude and latitude
 # Need to conver location weather data to long/lat coordinates and merge with wildfire csv
 # Fort McMurray A, Fort McMurray: Lat = 56.72667, Lon = -111.38083 - Data acquired for 2016 - 2025
-# Adair Auto, Zama City: Lat = 59.15222, Lon = -118.69250
 # Rainbow Lake Auto, Rainbow Lake: Lat = 58.50444, Lon = -119.40028 - Data acquired for 2020 - 2025
 # Shell Hamburg, Chinchaga Wildland Provincial Park: Lat = 57.15000, Lon = -119.56667 - Data acquired for 2016 - 2025
 # Entrance Auto, Old Entrance: Lat = 53.36667, Lon = -117.71889 - Data acquired for 2016 - 2025
 # Wabasca Auto, Wabasca: Lat = 55.96666, Lon = -113.85000 - Data acquired for 2016 - 2025
 # Loon River Auto, Loon River Airport: Lat = 57.14200, Lon = 115.07533 - Data acquired for 2016 - 2025
-# Foggy Mountain Auto, John D'Or Prairie: Lat = 58.50100, Lon = -115.14280
-# Red Earth Auto, Red Earth Creek: Lat = 56.54972, Lon = -115.28450
-# Bovine Creek Auto, Mariana Lake: Lat = 55.95216, Lon = -112.01667
-# Whitemud Creek AGCM, New Fish Creek: Lat = 55.29000, Lon = -117.25450
-# Edmonto Stony Plain CS, Stony Plain: Lat = 53.53343, Lon = -114.00205 - Data acquired for 2016 - 2025
-# Canmore Civic Centre, Canmore, Lat = 51.08340, Lon = -115.3521
+# Lac La Biche Climate, Lac La Biche: Lat = 54.76690, Lon = -111.96861 - Data acquired for 2016 - 2025
+# Hawk Hills Auto, Kemp River: Lat = 57.55000, Lon = -117.50000 - Data acquired 2020 - 2025
+# Fort Vermillion, Fort Vermillion: Lat = 58.22500, Lon = -115.59100 - Data acquired for 2016 - 2025
+# 
