@@ -63,6 +63,9 @@ plt.show()
 # Gather data of daily weather conditions in Alberta
 # Wildfire data uses locations based in longitude and latitude
 # Need to conver location weather data to long/lat coordinates and merge with wildfire csv
+# All daily weather data is yearly to March 1st
+# https://www.mapcustomizer.com/map/Hestia%20Daily%20Weather%20Probes 
+
 # Fort McMurray A, Fort McMurray: Lat = 56.72667, Lon = -111.38083 - Data acquired for 2016 - 2025
 # Rainbow Lake Auto, Rainbow Lake: Lat = 58.50444, Lon = -119.40028 - Data acquired for 2020 - 2025
 # Shell Hamburg, Chinchaga Wildland Provincial Park: Lat = 57.15000, Lon = -119.56667 - Data acquired for 2016 - 2025
@@ -72,4 +75,15 @@ plt.show()
 # Lac La Biche Climate, Lac La Biche: Lat = 54.76690, Lon = -111.96861 - Data acquired for 2016 - 2025
 # Hawk Hills Auto, Kemp River: Lat = 57.55000, Lon = -117.50000 - Data acquired 2020 - 2025
 # Fort Vermillion, Fort Vermillion: Lat = 58.22500, Lon = -115.59100 - Data acquired for 2016 - 2025
-# 
+# Cambrian Auto, La Butte Creek Wildlands: Lat = 59.52444, Lon = -111.46389 - Data acquired for 2019 - 2025
+# Whitesands Auto, John D'Or Prairie Reserve: Lat = 58.51100, Lon = -115.12500 - Data acquired for 2016 - 2025
+# Fort Macleod Auto, Fort Macleod: Lat = 49.71671, Lon = -113.41857 - Data acquired for 2016 - 2025
+# Rocky Mountain House AUT, Rocky Mountain House: Lat = 52.36683, Lon = -114.91880 - Data acquired for 2016 - 2025
+# Edson, Edson: Lat = 53.58345, Lon = -116.43559 - Data acquired for 2019 - 2025
+# Economy Creek Auto, Grovedale: Lat = 55.02500, Lon = -118.86472 - Data acquired for 2018 - 2025
+# Imperial Auto, Swan Hills: Lat = 54.71681, Lon = -115.40226 - Data acquired for 2016 - 2025
+# Cleardale ADGM, Cleardale: Lat = 56.33450, Lon = -119.58616 - Data acquired for 2016 - 2025
+# Edmonton Blatchford, Edmonton: Lat = 53.55014, Lon = -113.46871 - Data acquired for 2016 - 2025
+# Jean Lake Auto, Jean Lake Airport: Lat = 57.45583, Lon = -113.09722 - Data acquired for 2020 - 2025
+# Fort Chipewyan, Fort Chipewyan: Lat = 58.70870, Lon = -111.15500 - Data acquired for 2016 - 2025
+# Vermilion AGDM, Vermilion: Lat = 53.35409, Lon = -110.85849 - Data acquired for 2016 - 2019
